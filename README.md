@@ -1,5 +1,5 @@
 ## Description
-This project is running on a robot tank wiht Lidar, IMU and camera installed. Possiblly extended with depth camera.
+This project is running on a robot tank wiht Lidar, ultra-sonic, IMU and camera installed. Possiblly extended with depth camera.
 
 ## Hardware  
 Central control is Raspberry Pi.
