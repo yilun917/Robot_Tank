@@ -5,6 +5,7 @@ This project is running on a robot tank wiht Lidar, ultra-sonic, IMU and camera 
 Remote Control  
 Localization  
 SLAM  
+Object Detection
 
 
 ## Hardware  
