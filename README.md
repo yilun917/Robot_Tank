@@ -16,5 +16,9 @@ USB Camera
 HW-579 9-axis IMU sensor 
 Tank base chasis
 
+## Commands
+roscd
+rosrun telecom... (not finished)
+
 ## LISCENSE
 MIT Liscense
