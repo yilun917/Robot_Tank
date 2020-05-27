@@ -20,5 +20,9 @@ Tank base chasis
 roscd
 rosrun telecom... (not finished)
 
+# Problems Now
+IMU not work  
+Software don't match  
+
 ## LISCENSE
 MIT Liscense
